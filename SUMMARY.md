@@ -13,6 +13,7 @@
   * [Metamask: Add Polygon \(Matic Network\)](relevant-readings/polygon-chain-matic/metamask-add-polygon-matic-network.md)
   * [How do I set metamask to use polygon network?](relevant-readings/polygon-chain-matic/how-do-i-set-metamask-to-use-polygon-network.md)
 * [XSGD - Singapore Stablecoin](relevant-readings/what-is-xsgd/README.md)
+  * [Where to get XSGD?](relevant-readings/what-is-xsgd/where-to-get-xsgd.md)
   * [What can you do with XSGD?](relevant-readings/what-is-xsgd/what-can-you-do-with-xsgd.md)
   * [Adding XSGD token symbol in your metamask wallet](relevant-readings/what-is-xsgd/adding-xsgd-token-symbol-in-your-metamask-wallet.md)
   * [Adding XSGD token symbol in your Zilpay wallet](relevant-readings/what-is-xsgd/adding-xsgd-token-symbol-in-your-zilpay-wallet.md)
