@@ -1,29 +1,48 @@
 # Swap XSGD on Zilliqa network to XSGD on Polygon network
 
-## Motivation
+## Acquire XSGD on Zil network 
+
+You can refer to the below page to acquire XSGD. The most straight forward manner is to obtain XSGD from [Xfers](www.xfers.com)
+
+{% page-ref page="../relevant-readings/what-is-xsgd/where-to-get-xsgd.md" %}
 
 
 
-## Getting Super Powers
+## Click on connect to Zilpay 
 
-Becoming a super hero is a fairly straight forward process:
-
-```
-$ give me super-powers
-```
-
-{% hint style="info" %}
- Super-powers are granted randomly so please submit an issue if you're not happy with yours.
-{% endhint %}
-
-Once you're strong enough, save the world:
-
-{% code title="hello.sh" %}
-```bash
-# Ain't no code for that yet, sorry
-echo 'You got to trust me on this, I saved the world'
-```
-{% endcode %}
+![](../.gitbook/assets/image%20%2818%29.png)
 
 
+
+**Click on Connect**
+
+![](../.gitbook/assets/image%20%2816%29.png)
+
+
+
+**Input the amount of XSGD from ZIL that you wish to bridge to Polygon network and click on bridge token**
+
+![](../.gitbook/assets/image%20%2814%29.png)
+
+
+
+**Confirm the transaction on your zilpay, ensuring that you have ZIL tokens to pay for the gas fees**
+
+![](../.gitbook/assets/image%20%2819%29.png)
+
+
+
+![](../.gitbook/assets/image%20%2811%29.png)
+
+**Click on transactions to check your sending status**
+
+![](../.gitbook/assets/image.png)
+
+
+
+Once it's sent you can check that you have received it in your polygon wallet via [https://polygonscan.com/](https://polygonscan.com/) 
+
+Key in your polygon wallet address into polygon scan and look under ERC-20 Token Txns to check that you have received the XSGD tokens 
+
+![](../.gitbook/assets/image%20%284%29.png)
 
