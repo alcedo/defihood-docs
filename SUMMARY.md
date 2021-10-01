@@ -9,4 +9,5 @@
 ## Relevant Readings
 
 * [What is decentralized finance?](relevant-readings/what-is-decentralized-finance.md)
+* [What is XSGD](relevant-readings/what-is-xsgd.md)
 
