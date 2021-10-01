@@ -9,5 +9,7 @@
 ## Relevant Readings
 
 * [What is decentralized finance?](relevant-readings/what-is-decentralized-finance.md)
-* [What is XSGD](relevant-readings/what-is-xsgd.md)
+* [What is XSGD](relevant-readings/what-is-xsgd/README.md)
+  * [Adding XSGD token symbol in your metamask wallet](relevant-readings/what-is-xsgd/adding-xsgd-token-symbol-in-your-metamask-wallet.md)
+  * [Adding XSGD token symbol in your Zilpay wallet](relevant-readings/what-is-xsgd/adding-xsgd-token-symbol-in-your-zilpay-wallet.md)
 
