@@ -2,7 +2,7 @@
 description: Traverse your tokens across various network chains!
 ---
 
-# Traverse
+# Traverse Finance
 
 **Traverse Finance is a bridge that allow users to swap XSGD between zilliqa and polygon network**
 

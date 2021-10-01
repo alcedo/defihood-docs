@@ -1,4 +1,4 @@
-# What is XSGD
+# XSGD - Singapore Stablecoin
 
 XSGD is the fully collateralized Singapore Dollar stablecoin, powered by open-source blockchain protocols. All Xfers issued SGD-backed stablecoins have 1:1 parity with Singapore Dollar.
 
