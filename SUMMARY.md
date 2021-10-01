@@ -11,7 +11,7 @@
 
 * [Polygon Chain \(MATIC\)](relevant-readings/polygon-chain-matic/README.md)
   * [Metamask: Add Polygon \(Matic Network\)](relevant-readings/polygon-chain-matic/metamask-add-polygon-matic-network.md)
-  * [How do I set metamask to use polygon network?](relevant-readings/polygon-chain-matic/how-do-i-set-metamask-to-use-polygon-network.md)
+  * [$MATIC Faucet for gas fee](relevant-readings/polygon-chain-matic/usdmatic-faucet-for-gas-fee.md)
 * [XSGD - Singapore Stablecoin](relevant-readings/what-is-xsgd/README.md)
   * [Where to get XSGD?](relevant-readings/what-is-xsgd/where-to-get-xsgd.md)
   * [What can you do with XSGD?](relevant-readings/what-is-xsgd/what-can-you-do-with-xsgd.md)

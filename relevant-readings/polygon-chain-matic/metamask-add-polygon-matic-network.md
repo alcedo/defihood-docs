@@ -8,16 +8,27 @@ description: Guide to add Polygon (Matic Network) Network on Metamask (Desktop &
 
 1\) Go to the **settings** page
 
+![](../../.gitbook/assets/image%20%285%29.png)
+
 2\) Click on Networks &gt; Add Network
 
-3\) Key in the relevant details:
+![](../../.gitbook/assets/image%20%289%29.png)
 
-* **Matic Mainnet**
-  * **​Network Name:** Matic Mainnet
-  * **New RPC URL:** [https://rpc-mainnet.maticvigil.com/](https://rpc-mainnet.maticvigil.com/)
-  * **ChainID:** 137
-  * **Symbol:** MATIC
-  * **Block Explorer URL:** [https://explorer.matic.network/](https://explorer.matic.network/)
+
+
+
+
+3\) Fill in the relevant details with the below information
+
+![](../../.gitbook/assets/image%20%283%29.png)
+
+**Matic Mainnet**
+
+* **​Network Name:** Matic Mainnet
+* **New RPC URL:** [https://rpc-mainnet.maticvigil.com/](https://rpc-mainnet.maticvigil.com/)
+* **ChainID:** 137
+* **Symbol:** MATIC
+* **Block Explorer URL:** [https://explorer.matic.network/](https://explorer.matic.network/)
 
 For more information on how to use MetaMask with Polygon \(Matic Network\), check out [here](https://docs.matic.network/docs/develop/metamask/config-matic).
 
@@ -30,5 +41,5 @@ In times of congested networks, sometimes changing the RPC url helps out:
 * [https://matic-mainnet-full-rpc.bwarelabs.com](https://matic-mainnet-full-rpc.bwarelabs.com) 
 * [https://matic-mainnet-archive-rpc.bwarelabs.com](https://matic-mainnet-archive-rpc.bwarelabs.com)
 
-Read here on HOW-TO switch your RPC url:
+
 
