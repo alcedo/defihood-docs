@@ -1,4 +1,4 @@
-# Swapping XSGD on Zilliqa network to XSGD on Polygon network
+# Swap XSGD on Zilliqa network to XSGD on Polygon network
 
 ## Getting Super Powers
 
