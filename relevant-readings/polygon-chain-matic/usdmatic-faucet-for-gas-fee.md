@@ -4,8 +4,6 @@ Accidentally staked all of your $MATIC and don't have enough left to make a tran
 
 **Get 0.0005 $MATIC from** [**Polygon Faucet**](https://matic.supply/) **\(**[**https://matic.supply/**](https://matic.supply/)**\) as gas fee!**
 
-\*\*\*\*
-
 1\) Make sure your wallet is connected to the Polygon network and "Connect" to the website to proceed. You need to make sure the "CAPTCHA" is completed to proceed.
 
 ![](../../.gitbook/assets/image%20%287%29.png)
