@@ -13,6 +13,7 @@ Advance users can proceed directly to metamask zendesk to look at how to add cus
 
 ## Step 1
 
+Click on the metamask icon
 
 
 
