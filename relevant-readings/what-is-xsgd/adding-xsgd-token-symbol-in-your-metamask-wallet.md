@@ -13,5 +13,11 @@ Advance users can proceed directly to metamask zendesk to look at how to add cus
 
 ## Step 1
 
+Switch to polygon network in your metamask wallet like by following this instruction:
+
+{% page-ref page="../../polygon-chain-matic/how-do-i-set-metamask-to-use-polygon-network.md" %}
+
+
+
 Click on the metamask icon
 
