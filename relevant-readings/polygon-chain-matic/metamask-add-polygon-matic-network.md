@@ -12,7 +12,7 @@ description: Guide to add Polygon (Matic Network) Network on Metamask (Desktop &
 
 2\) Click on Networks &gt; Add Network
 
-![](../../.gitbook/assets/image%20%2812%29.png)
+![](../../.gitbook/assets/image%20%2814%29.png)
 
 
 
