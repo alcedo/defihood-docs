@@ -13,3 +13,7 @@
   * [Adding XSGD token symbol in your metamask wallet](relevant-readings/what-is-xsgd/adding-xsgd-token-symbol-in-your-metamask-wallet.md)
   * [Adding XSGD token symbol in your Zilpay wallet](relevant-readings/what-is-xsgd/adding-xsgd-token-symbol-in-your-zilpay-wallet.md)
 
+---
+
+* [How do I set metamask to use polygon network?](how-do-i-set-metamask-to-use-polygon-network.md)
+
