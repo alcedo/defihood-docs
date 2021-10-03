@@ -24,4 +24,5 @@
 ---
 
 * [Community](community.md)
+* [FAQ](faq.md)
 
