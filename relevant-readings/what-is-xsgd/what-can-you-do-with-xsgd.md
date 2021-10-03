@@ -6,3 +6,27 @@ XSGD can also be used as a form of payments between individuals or used as a set
 
 XSGD is also targeted to be launched in other chains besides Zilliqa, Polygon and Ethereum.
 
+
+
+## Getting into Defi via XSGD
+
+XSGD can be swapped into USDT or USDC in either DFX, Uniswap, 1Inch or Zilswap. 
+
+You would want to obtain USDT or USDC as it is the most commonly used stablecoin in all of the defi apps in the market.
+
+Hence your journey into the Defi space can be accomplished by acquiring some XSGD and swapping it into USDC or USDT
+
+For a list of Defi apps that you can use to invest your money in please refer to:
+
+1. [https://defipulse.com/](https://defipulse.com/) \(ETH / Usually polygon network supported too\)
+2. [https://www.defistation.io/](https://www.defistation.io/) \(BSC Chain\)
+3. [https://defillama.com/](https://defillama.com/home) \(For all other chains\)
+
+
+
+
+
+
+
+
+
