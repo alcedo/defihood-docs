@@ -24,7 +24,7 @@ In general, you would want to
 7. [https://www.xpollinate.io/](https://www.xpollinate.io/) Polygon to BSC Bridge 
 8. [https://bridge.evodefi.com/?token=USDC](https://bridge.evodefi.com/?token=USDC) Polygon/ETH/Fanton bridge
 9. [https://www.okex.com/](https://www.okex.com/balance/recharge)  Polygon  TRC, ERC, SOL, OMNI bridge 
-10.  [https://www.huobi.com/en-us/finance/deposit/](https://www.huobi.com/en-us/finance/deposit/usdc) ETH, OMNI, TRC, HEC, SOL bridge 
+10. [https://www.huobi.com/en-us/finance/deposit/](https://www.huobi.com/en-us/finance/deposit/usdc) ETH, OMNI, TRC, HEC, SOL bridge 
 11. [https://anyswap.exchange/\#/bridge](https://anyswap.exchange/#/bridge) ETH, BSC, POLYGON
 
 **Other cross-chain dapps:**
