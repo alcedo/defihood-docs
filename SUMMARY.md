@@ -5,6 +5,7 @@
 ## How tos
 
 * [Swap XSGD on Zilliqa network to XSGD on Polygon network](how-tos/swapping-xsgd-on-zilliqa-network-to-xsgd-on-polygon-network.md)
+* [Swap XSGD on Polygon network to XSGD on Zilliqa network](how-tos/swap-xsgd-on-polygon-network-to-xsgd-on-zilliqa-network.md)
 * [How to buy XSGD from Xfers.com](how-tos/how-to-buy-xsgd-from-xfers.com.md)
 
 ## Relevant Readings
