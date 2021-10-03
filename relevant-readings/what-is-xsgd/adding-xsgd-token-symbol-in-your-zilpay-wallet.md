@@ -1,25 +1,18 @@
 # Adding XSGD token symbol in your Zilpay wallet
 
-## Getting Super Powers
+**If you have the latest zilpay wallet installed, the XSGD token is by default enabled for you already**
 
-Becoming a super hero is a fairly straight forward process:
+Simply click on the "Round Token" Icon at the bottom of your zilpay wallet to view your blaance.
 
-```
-$ give me super-powers
-```
+![](../../.gitbook/assets/image%20%2824%29.png)
 
-{% hint style="info" %}
- Super-powers are granted randomly so please submit an issue if you're not happy with yours.
-{% endhint %}
 
-Once you're strong enough, save the world:
 
-{% code title="hello.sh" %}
-```bash
-# Ain't no code for that yet, sorry
-echo 'You got to trust me on this, I saved the world'
-```
-{% endcode %}
+**if this is not the case, you may add the XSGD token contract address from** [**https://viewblock.io/zilliqa/address/zil180v66mlw007ltdv8tq5t240y7upwgf7djklmwh**](https://viewblock.io/zilliqa/address/zil180v66mlw007ltdv8tq5t240y7upwgf7djklmwh) ****
+
+Simply input **zil180v66mlw007ltdv8tq5t240y7upwgf7djklmwh** into the field 
+
+![](../../.gitbook/assets/image%20%2819%29.png)
 
 
 

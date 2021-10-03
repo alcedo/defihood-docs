@@ -10,29 +10,29 @@ You can refer to the below page to acquire XSGD. The most straight forward manne
 
 ## Click on connect to Zilpay 
 
-![](../.gitbook/assets/image%20%2826%29.png)
+![](../.gitbook/assets/image%20%2830%29.png)
 
 
 
 **Click on Connect**
 
-![](../.gitbook/assets/image%20%2824%29.png)
+![](../.gitbook/assets/image%20%2828%29.png)
 
 
 
 **Input the amount of XSGD from ZIL that you wish to bridge to Polygon network and click on bridge token**
 
-![](../.gitbook/assets/image%20%2821%29.png)
+![](../.gitbook/assets/image%20%2825%29.png)
 
 
 
 **Confirm the transaction on your zilpay, ensuring that you have ZIL tokens to pay for the gas fees**
 
-![](../.gitbook/assets/image%20%2827%29.png)
+![](../.gitbook/assets/image%20%2831%29.png)
 
 
 
-![](../.gitbook/assets/image%20%2818%29.png)
+![](../.gitbook/assets/image%20%2821%29.png)
 
 **Click on transactions to check your sending status**
 
@@ -44,5 +44,5 @@ Once it's sent you can check that you have received it in your polygon wallet vi
 
 Key in your polygon wallet address into polygon scan and look under ERC-20 Token Txns to check that you have received the XSGD tokens 
 
-![](../.gitbook/assets/image%20%286%29.png)
+![](../.gitbook/assets/image%20%287%29.png)
 
