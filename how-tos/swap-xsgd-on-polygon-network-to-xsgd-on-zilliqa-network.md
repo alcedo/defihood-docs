@@ -4,7 +4,7 @@
 
 The best way to acquire XSD on Polygon is via [https://app.dfx.finance/](https://app.dfx.finance/) 
 
-![](../.gitbook/assets/image%20%283%29.png)
+![](../.gitbook/assets/image%20%284%29.png)
 
 **Click on connect polygon wallet**
 
@@ -14,7 +14,7 @@ The best way to acquire XSD on Polygon is via [https://app.dfx.finance/](https:/
 
 \*\*\*\*
 
-![](../.gitbook/assets/image%20%2818%29.png)
+![](../.gitbook/assets/image%20%2821%29.png)
 
 \*\*\*\*
 
@@ -22,13 +22,13 @@ The best way to acquire XSD on Polygon is via [https://app.dfx.finance/](https:/
 
 \*\*\*\*
 
-![](../.gitbook/assets/image%20%2813%29.png)
+![](../.gitbook/assets/image%20%2816%29.png)
 
 \*\*\*\*
 
 **Check status in the transactions page and you are done.**
 
-![](../.gitbook/assets/image%20%2811%29.png)
+![](../.gitbook/assets/image%20%2813%29.png)
 
 
 

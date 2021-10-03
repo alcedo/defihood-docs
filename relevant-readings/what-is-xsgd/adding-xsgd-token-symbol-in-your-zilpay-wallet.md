@@ -4,7 +4,7 @@
 
 Simply click on the "Round Token" Icon at the bottom of your zilpay wallet to view your blaance.
 
-![](../../.gitbook/assets/image%20%2824%29.png)
+![](../../.gitbook/assets/image%20%2827%29.png)
 
 
 
@@ -12,7 +12,7 @@ Simply click on the "Round Token" Icon at the bottom of your zilpay wallet to vi
 
 Simply input **zil180v66mlw007ltdv8tq5t240y7upwgf7djklmwh** into the field 
 
-![](../../.gitbook/assets/image%20%2819%29.png)
+![](../../.gitbook/assets/image%20%2822%29.png)
 
 
 

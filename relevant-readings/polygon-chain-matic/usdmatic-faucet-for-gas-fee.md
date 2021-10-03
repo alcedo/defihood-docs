@@ -4,11 +4,11 @@ Accidentally staked all of your $MATIC and don't have enough left to make a tran
 
 1\) Make sure your wallet is connected to the Polygon network and "Connect" to the website to proceed. You need to make sure the "CAPTCHA" is completed to proceed.
 
-![](../../.gitbook/assets/image%20%2816%29.png)
+![](../../.gitbook/assets/image%20%2819%29.png)
 
 2\) Click "Receive" to set up the transaction to recieve the $MATIC. If you already have enough $MATIC  in your wallet to do a transaction, you won't be able to receive the faucet.
 
-![](../../.gitbook/assets/image%20%2827%29.png)
+![](../../.gitbook/assets/image%20%2830%29.png)
 
 
 

@@ -13,7 +13,7 @@ Advance users can proceed directly to metamask zendesk to look at how to add cus
 
 ## Instructions
 
-Switch to polygon network in your metamask wallet like by following this instruction:
+Switch to polygon network in your metamask wallet like so by following this instruction:
 
 {% page-ref page="../polygon-chain-matic/metamask-add-polygon-matic-network.md" %}
 
@@ -21,7 +21,7 @@ Switch to polygon network in your metamask wallet like by following this instruc
 
 **Click on add token**
 
-![](../../.gitbook/assets/image%20%2832%29.png)
+![](../../.gitbook/assets/image%20%2835%29.png)
 
 
 
@@ -29,13 +29,13 @@ Switch to polygon network in your metamask wallet like by following this instruc
 
 Use the value 0x769434dca303597c8fc4997bf3dab233e961eda2 
 
-![](../../.gitbook/assets/image%20%2820%29.png)
+![](../../.gitbook/assets/image%20%2823%29.png)
 
 **if you have an existing XSGD token balance in the wallet, this will show up** 
 
-![](../../.gitbook/assets/image%20%2826%29.png)
+![](../../.gitbook/assets/image%20%2829%29.png)
 
-![](../../.gitbook/assets/image%20%2814%29.png)
+![](../../.gitbook/assets/image%20%2817%29.png)
 
 
 
