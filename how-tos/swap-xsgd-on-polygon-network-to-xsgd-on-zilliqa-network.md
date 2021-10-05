@@ -2,7 +2,7 @@
 
 ## Acquire XSGD on POS network 
 
-The best way to acquire XSGD on Polygon is via [https://app.dfx.finance/](https://app.dfx.finance/) 
+The best way to acquire XSD on Polygon is via [https://app.dfx.finance/](https://app.dfx.finance/) 
 
 ![](../.gitbook/assets/image%20%284%29.png)
 

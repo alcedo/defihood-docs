@@ -14,6 +14,8 @@ Accidentally staked all of your $MATIC and don't have enough left to make a tran
 
 3\) The website will pop up a "Transaction sent!" message if the "received" function is executed correctly. You can also check the transaction details on the [Polygon block explorer](https://explorer.matic.network/). You can do this operation for a maximum 3 times in a day. 
 
+
+
 {% hint style="info" %}
 
 {% endhint %}

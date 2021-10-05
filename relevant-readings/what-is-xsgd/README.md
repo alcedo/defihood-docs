@@ -9,7 +9,7 @@ XSGD tokens are available on two distinct blockchain protocols:
 
 The digital asset space is growing and current use cases for XSGD are distinct from future use cases.
 
-Today, XSGD can be used as a stable store of value and unit of account denominated in Singapore Dollar in digital assets markets. XSGD tokens can also be used to remove cross-border transaction fees and to move seamlessly between physical and digital assets, or as means of payment for other digital assets.
+Today, XSGD can be used as a stable store of value and unit of account denominated in Singapore Dollar in digital assets markets. XSGD tokens can also be used to remove cross-border transaction fees and to move seamlessly between physical and digital assets, or as means of payment for other digital assets. 
 
 In the future, XSGD will also be used for both B2B and consumer payments.
 

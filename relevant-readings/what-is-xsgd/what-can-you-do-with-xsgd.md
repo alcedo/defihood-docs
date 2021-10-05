@@ -24,6 +24,14 @@ For a list of Defi apps that you can use to invest your money in please refer to
 
 
 
+Another good place to begin your journey is to read the FAQ page as well:
+
+{% page-ref page="../../faq.md" %}
+
+
+
+
+
 
 
 

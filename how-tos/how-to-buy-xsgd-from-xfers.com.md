@@ -12,7 +12,7 @@ For depositing USD to obtain XSGD or USDC, contact the support team to do an OTC
 
 
 
-**Deposit SGD from your local Singapore bank like so** 
+**Deposit SGD from your local Singapore bank like so**  
 
 ![](../.gitbook/assets/image%20%283%29.png)
 

@@ -2,7 +2,7 @@
 
 ## Acquire XSGD on Zil network 
 
-You can refer to the below page to acquire XSGD. The most straight forward manner is to obtain XSGD from [Xfers](www.xfers.com)
+You can refer to the below page to acquire XSGD. The most straight forward manner is to obtain XSGD from [Xfers](www.xfers.com) 
 
 {% page-ref page="../relevant-readings/what-is-xsgd/where-to-get-xsgd.md" %}
 
