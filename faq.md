@@ -11,7 +11,7 @@ In general, you would want to
 1. Swap your XSGD into USDT or USDC in [Zilswap ](https://zilswap.io)or [DFX](https://dfx.finance)
 2. If you have tokens on zilliqa network and wish to bring it into an app on another chain, google search for "Bridge token from zilliqa network to polygon network / Binance Smart Chain / Ethereum network for example"\
    \
-   If you have tokens (XSGD tokens for example) on Polygon network, you can Google search for "Bridge token from polygon network to Ethereum or Solana Network
+   If you have tokens (XSGD tokens for example) on Polygon network, you can Google search for "Bridge token from polygon network to Ethereum or Solana Network.
 3. Most likely you would end up with solutions that involves using a ["bridge" to bridge ](https://autofarm.gitbook.io/autofarm-network/how-tos/bridge-assets)your token from 1 network to another
 4. Traverse finance is an example of a bridge. We help you to bridge XSGD token from 1 network to another network, vice versa
 
