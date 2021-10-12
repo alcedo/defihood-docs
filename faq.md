@@ -33,7 +33,7 @@ In general, you would want to
 8. [https://bridge.evodefi.com/?token=USDC](https://bridge.evodefi.com/?token=USDC) Polygon/ETH/Fanton bridge
 9. [https://www.okex.com/](https://www.okex.com/balance/recharge)  Polygon  TRC, ERC, SOL, OMNI bridge 
 10.  [https://www.huobi.com/en-us/finance/deposit/](https://www.huobi.com/en-us/finance/deposit/usdc) ETH, OMNI, TRC, HEC, SOL bridge 
-11. [https://anyswap.exchange/#/bridge](https://anyswap.exchange/#/bridge) ETH, BSC, POLYGON
+11. [https://stable.anyswap.exchange/#/swap](https://stable.anyswap.exchange/#/swap) ETH, BSC, POLYGON
 12. [https://ftx.com/](https://ftx.com) ETH, SOL, BSC
 13. [https://www.kucoin.com/assets/coin](https://www.kucoin.com/assets/coin) TRC, Terra, CELO, TCC, ALGO
 14. [https://gateway.optimism.io/](https://gateway.optimism.io) Optism / ETH
